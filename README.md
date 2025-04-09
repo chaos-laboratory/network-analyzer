@@ -1,2 +1,2 @@
 # network-analyzer
-a project to monitoring resource availability on a fleet of hosts
+a project to monitor resource availability on a fleet of hosts
